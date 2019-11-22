@@ -5,7 +5,7 @@ public class Array {
 		System.out.println("displaying odd numbers:");
 		for(int i:arr)
 		{
-			System.out.println(x+1);
+			System.out.println(i+1);
 		}
 	}
 

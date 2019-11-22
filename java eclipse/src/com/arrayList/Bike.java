@@ -1,0 +1,18 @@
+package com.arrayList;
+
+public class Bike {
+	String color;
+	double mileage;
+	 Bike() { }
+	public Bike(String color, double mileage) {
+		super();
+		this.color = color;
+		this.mileage = mileage;
+	}
+	@Override
+	public String toString() {
+		return "Bike [color=" + color + ", mileage=" + mileage + "]";
+	}
+	
+	 
+}
